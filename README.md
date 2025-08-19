@@ -1,7 +1,7 @@
 # SyncPlay
 # Video Sharing Platform with Flask
 
-##Summary
+##program
 A full-featured video sharing web application built with Python Flask that supports user registration, video uploading, real-time interactions, and social features. The platform includes comprehensive media handling capabilities with automatic thumbnail generation and video processing.
 
 ## Key Features
