@@ -80,7 +80,7 @@ app.config.update({
 ```bash
 python app.py
 ```
-5. Access at: `https://www.yourdomain.com:5062`
+5. Access at: `https://127.0.0.1:8934`
 
 ## Endpoints
 - `/` - Homepage with video listings
