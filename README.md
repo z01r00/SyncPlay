@@ -23,7 +23,6 @@ A full-featured video sharing web application built with Python Flask that suppo
 ### Interactive Features
 - Real-time danmu (commenting overlay) with SSE streaming
 - Like/dislike videos
-- Favorite/unfavorite videos
 - Video comments system
 - View counters
 
